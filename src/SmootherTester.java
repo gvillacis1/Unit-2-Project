@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /**
 * 
 * Writes out to a csv file by running the smoothData method
